@@ -122,4 +122,3 @@ We would like to thank the developers of Theano, Blocks and Fuel at MILA for the
 
 We thank Simon Lacoste-Julien from SIERRA team at INRIA, for providing us access to two Titan Black GPUs.
 
-
